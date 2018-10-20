@@ -1,0 +1,464 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Hamidreza Kasaei</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Hamidreza Kasaei</a></h1>
+					<p>Department of Artificial Intelligence,<br />
+					University of Groningen, the Netherlands.</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About me</a></li>
+						<li><a href="#two">Latest News</a></li>
+						<li><a href="#three">Research & Publication</a></li>
+						<li><a href="#four">Open Positions & Students</a></li>
+						<li><a href="#five">Teaching</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a target="_blank" href="https://twitter.com/HamidrezaKasaei" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a target="_blank" href="https://scholar.google.pt/citations?user=VFr_XuYAAAAJ&hl=en" class="icon fa-book"><span class="label">Google Scholar</span></a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/in/hamidreza-kasaei-49b83b57/" class="icon fa-linkedin"><span class="label">linkedin</span></a></li>
+						<li><a target="_blank" href="https://github.com/SeyedHamidreza/" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a target="_blank" href="mailto:hamidreza.kasaei@rug.nl" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div
+
+								</div>
+								<!-- <div class="image main" data-position="center">
+									  <img src="images/banner.jpg" alt="" />
+								</div>-->
+								<div class="container">
+
+									<header class="major">
+										<h2 style="text-align: center;">Hamidreza Kasaei</h2>
+									</header>
+									<p style="text-align: justify; color: rgb(0, 0, 0);">
+
+I joined the Department of Artificial Intelligence of the University of Groningen as a Faculty of Science and Engineering (FSE Fellow) in August 2018. My main  research interests lie in the area of <b  style="color: rgb(0, 0, 255);"> 3D Object Perception, Grasp Affordance, and Manipulation</b>. Currently, I am developing an artificial cognitive system for assistive robots to provide a tight coupling between perception and manipulation. This coupling is necessary for assistive robots, not only to perform manipulation tasks appropriately but also to robustly adapt to new environments by handling new objects.
+
+I have extensive background in computer vision, machine learning and robotics. During my Ph.D., I got an opportunity to work on FP7 Project named <b href="http://project-race.eu/" target="_blank" style="color: rgb(0, 0, 255);">RACE: Robustness by Autonomous Competence Enhancement</b>. In this project, I was mainly responsible to develop interactive open-ended learning approaches to recognize multiple objects and their grasp affordances concurrently.  
+During my master, I studied face recognition using single normal reference image and statistical features. Besides, I worked on middle size soccer robot and humanoid robot and obtained different ranks in RoboCup competitions. <!-- The current version of my CV is available <a href="https://www.dropbox.com/s/3dg9n4blo03krex/Hamidreza_cv.pdf?dl=1" target="_blank" style="color: rgb(0, 0, 255);">here</a>. My up-to-date list of publications can be found on my <a href="https://scholar.google.pt/citations?user=VFr_XuYAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);"> Google scholar </a> or <a href="https://www.researchgate.net/profile/Hamidreza_Kasaei?ev=hdr_xprf" target="_blank" style="color: rgb(0, 0, 255);"> ResearchGate</a>.-->
+<div style="text-align: center; color: rgb(20, 0, 0);"> 
+	/
+	<a target="_blank" href="https://www.dropbox.com/s/3dg9n4blo03krex/Hamidreza_cv.pdf?dl=1"> CV</a> /
+	<a target="_blank" href="https://scholar.google.pt/citations?user=VFr_XuYAAAAJ&hl=en">Google Scholar</a> /
+	<a target="_blank" href="https://www.researchgate.net/profile/Hamidreza_Kasaei?ev=hdr_xprf" target="_blank">ResearchGate </a> /
+	<a target="_blank" href="https://www.linkedin.com/in/hamidreza-kasaei-49b83b57/">LinkedIn </a> / 
+	<a target="_blank" href="https://github.com/SeyedHamidreza/">Github </a> / 
+	<a target="_blank" href="https://www.youtube.com/channel/UCEPBEyQfiv1P8wfuYjuWy4Q">YouTube </a> / 
+	<a target="_blank" href="mailto:hamidreza.kasaei@rug.nl">Email</a> / 
+</div>
+
+
+									</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3 style="color: rgb(0, 0, 0);" >Latest News</h3>
+									<p style="text-align: justify; color: rgb(0, 0, 0);">
+<b style="color: rgb(0, 150, 25);">* July 2018:</b> Our paper <b>Coping with Context Change in Open-Ended Object Recognition without Explicit Context Information</b> got accepted at <a href="https://www.iros2018.org/" class="external text" title="https://www.iros2018.org/" rel="nofollow" ><b style="color: rgb(0,0, 255);">IROS2018</b></a>. 
+
+<br /><b style="color: rgb(0, 150, 25);">* July 2018:</b> I will be a Faculty of Science and Engineering (FSE Fellow) at Artificial Intelligence &amp; Cognitive Engineering, Artificial Intelligence department, <a href="https://www.rug.nl/" class="external text" title="https://www.rug.nl/" rel="nofollow">University of Groningen</a>, the Netherlands. 
+
+<br /><b style="color: rgb(0, 150, 25);">* December 2017:</b> <b style="color: rgb(0, 0, 255);">Bin-Picking Synthetic Dataset</b> is now available <a href="https://goo.gl/BSr2mU" class="external text" title="https://goo.gl/BSr2mU" rel="nofollow" style="color: rgb(0, 0, 255);" > <b style="color: rgb(0,0, 255);"> here</b></a>! This dataset contains RGB and depth images captured from multiple views in five different physically feasible bin picking scenarios.
+
+<br /><b style="color: rgb(0, 150, 25);">* November 2017:</b> Our paper <b>Perceiving, Learning, and Recognizing 3D Objects: An Approach to Cognitive Service Robots</b> got accepted at <a href="https://aaai.org/Conferences/AAAI-18/" class="external text" title="https://aaai.org/Conferences/AAAI-18/" rel="nofollow" style="color: rgb(0, 0, 255);"><b style="color: rgb(0,0, 255);">AAAI2018</b></a>.
+
+<br /><b style="color: rgb(0, 150, 25);">* June 2017:</b> An open-source implementation of the <b style="color: rgb(0, 0, 255);" >GOOD descriptor</b> is now available on <a href="https://github.com/SeyedHamidreza/GOOD_descriptor" class="external text" title="https://github.com/SeyedHamidreza/GOOD_descriptor" rel="nofollow" style="color: rgb(0, 0, 255);">here!</a>
+
+<br /><b style="color: rgb(0, 150, 25);">* May 2017:</b> <b style="color: rgb(0, 0, 255);">Restaurant Object Dataset v.1.0</b> (RGB-D) is now available <a href="https://goo.gl/64IXx9" class="external text" title="https://goo.gl/64IXx9" rel="nofollow" style="color: rgb(0, 0, 255);">here</a>! It contains 306 views of one instance of each category (Bottle, Bowl, Flask, Fork, Knife, Mug, Plate, Spoon, Teapot, and Vase), and 31 views of Unknown objects views (e.g. views that belong to the furniture). 
+
+<br /><b style="color: rgb(0, 150, 25);">* April 2017:</b> New journal paper accepted at <a href="https://www.journals.elsevier.com/neurocomputing" class="external text" title="https://www.journals.elsevier.com/neurocomputing" rel="nofollow" style="color: rgb(0, 0, 255);" ><b style="color: rgb(0,0, 255);">Neurocomputing journal</b></a>: <b>Towards Lifelong Assistive Robotics: A Tight Coupling between Object Perception and Manipulation</b>. 
+
+<br /><b style="color: rgb(0, 150, 25);">* Jan 2017:</b> I will be a research intern at <a href="https://labicvl.github.io" class="external text" title="https://labicvl.github.io" rel="nofollow"><b style="color: rgb(0, 0, 255);" >ICVL Lab, Imperial Colledge London, UK</b></a>.
+</p>
+									
+</section>
+
+
+
+<!-- Three -->
+<section id="three">
+<div class="container">
+<h3 style="color: rgb(0, 0, 0);">Research & Publication</h3>
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+My research interests focus on the intersection of <b style="color: rgb(0, 0, 255);"> robotics</b>, <b style="color: rgb(0, 0, 255);">machine learning</b> and <b style="color: rgb(0, 0, 255);">machine vision</b>. I am interested in developing algorithms for an adaptive perception system based on interactive environment exploration and open-ended learning, which enables robots to learn from past experiences and interact with human users. I have been investigating on <b style="color: rgb(0, 0, 255);">  active perception</b>, where robots use their mobility and manipulation capabilities not only to gain the most useful perceptual information to model the world, but also to predict the next best view for improving detection and manipulation performances. I have evaluated my works on different platforms including PR2, robotic arms, and humanoid robots. My up-to-date list of publications and corresponding BibTeX files can be found on my <a  href="https://scholar.google.pt/citations?user=VFr_XuYAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);"> <b> Google scholar account</b> </a>.
+
+
+<b style="color: rgb(0, 0, 0);"> My research is summarized by the following projects:</b>
+</p>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<div class="features">
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Look Further to Recognize Better: Learning Shared Topics and Category-Specific Dictionaries for Open-Ended 3D Object Recognition</h4>
+	<a href="https://youtu.be/zjucGaAwnTE" target="_blank" class="image"><img src="images/fine_grained.jpg" alt="" /></a>
+	<div class="inner">
+								
+	<p style="text-align: justify; color: rgb(0, 0, 0);">
+In human-centric environments, fine-grained object categorization is as essential as basic-level object categorization. In this work, each object is represented using a set of general latent topics and category-specific dictionaries. The general topics encode the common patterns of all categories, while the category-specific dictionary describes the content of each category in details. We discovered both sets of general and specific representations in an unsupervised fashion and updated them incrementally using new object views. 
+<li><a class="icon fa-file-pdf-o" href="" target="_blank"> under review</a></li>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/zjucGaAwnTE" target="_blank"> Demo1</a>
+</li>
+<!-- <p><iframe width="640" height="360" src="https://www.youtube.com/embed/Hli1ky0bgT4?rel=0" frameborder="0" allowfullscreen=""></iframe> </p>-->
+</p>
+</div>
+</article>
+
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Interactive Open-Ended Learning Approach for Recognizing 3D Object Category and Grasp Affordance Concurrently</h4>
+	<a href="#" class="image"><img src="images/grasping.jpg" alt="" /></a>
+	<div class="inner">
+								
+	<p style="text-align: justify; color: rgb(0, 0, 0);">
+This paper presents an interactive open-ended learning approach to recognize multiple objects and their grasp affordances concurrently. This is an important
+contribution in the field of service robots since no matter how extensive the training data used for batch learning, a robot might always be confronted with an unknown object when operating in human-centric environments. Our approach has two main branches. The first branch is related to open-ended 3D object category learning and recognition. The second branch is associated with learning and recognizing the configuration of grasps in a reasonable amount of time.  
+<li><a class="icon fa-file-pdf-o" href="" target="_blank"> under review</a></li>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/yM6nGk_qGHk" target="_blank"> Demo1</a> --- <a class="icon style3 major fa-camera-retro" href="https://youtu.be/jYbjGKG4c-U" target="_blank"> Demo2</a> 
+</li>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Coping with Context Change in Open-Ended Object Recognition without Explicit Context Information</h4>
+	<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+	<div class="inner">
+								
+	<p style="text-align: justify; color: rgb(0, 0, 0);">
+One of the main challenges in unconstrained human environments is to cope with the effects of context change. This paper presents two main contributions: (<b>1</b>) an approach for evaluating open-ended object category learning and recognition methods in multi-context scenarios; (<b>2</b>) evaluation of different object category learning and recognition approaches regarding their ability to cope with the effects of context change. 
+<li><a class="icon fa-file-pdf-o" href="https://www.iros2018.org/" target="_blank"> IROS2018 (to appear)</a></li>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/l6q6fI5H6zY" target="_blank"> Demo: multi contexts open-ended scenario</a></li>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Perceiving, Learning, and Recognizing 3D Objects: An Approach to Cognitive Service Robots</h4>
+<a href="#" class="image"><img src="images/AAAI-ICCV.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+This paper proposes a cognitive architecture designed to create a concurrent 3D object category learning and recognition in an interactive and open-ended manner. In particular, this cognitive architecture provides automatic perception capabilities that will allow robots to detect objects in highly crowded scenes and learn new object categories from the set of accumulated experiences in an incremental and open-ended way. Moreover, it supports constructing the full model of an unknown object in an on-line manner and predicting next best view for improving object detection and manipulation performance.
+<li><a class="icon fa-file-pdf-o" href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17389" target="_blank"> AAAI2018</a></li>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/CuBS2L2q5NU" target="_blank"> Demo1</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/LZtI-s95uTk" target="_blank"> Demo2</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/eP0lwqW55Iw" target="_blank"> Demo3</a></li>
+</p>
+</div>
+</article>
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Active Multi-View 6D Object Pose Estimation and Camera Motion Planning in the Crowd</h4>
+<a href="#" class="image"><img src="images/Bin-picking-dataset.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+In this project, we developed a novel unsupervised Next-Best-View (NBV) prediction algorithm to improve object detection and manipulation performance. Particularly, the ability to predict the NBV point is important for mobile robots performing tasks in everyday environments. In active 
+scenarios, whenever the robot fails to detect or manipulate objects from the current view point, it is able to predict the next best view position, goes there and captures a new scene to improve the knowledge of the environment. This may increase the object detection and manipulation performance.
+<li><a class="icon fa-file-pdf-o" href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/w31/html/Sock_Multi-View_6D_Object_ICCV_2017_paper.html" target="_blank"> ICCV2017-WS</a></li>
+<li><a class="icon fa-file-code-o" href="https://goo.gl/BSr2mU" target="_blank"> Bin-Picking Synthetic Dataset (RGB-D)</a>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Hierarchical Object Representation for OpenEnded Object Category Learning and Recognition (Local LDA)</h4>
+<a href="#" class="image"><img src="images/PR2_LDA.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+This paper proposes an open-ended 3D object recognition system which concurrently learns both the object categories and the statistical features for encoding objects. In particular, we propose an extension of Latent Dirichlet Allocation to learn structural semantic features (i.e. topics), from low-level feature co-occurrences, for each category independently. Moreover, topics in each category are discovered in an unsupervised fashion and are updated incrementally using new object views. In this way, the advantage of both the local hand-crafted and the structural semantic features have been considered in an efficient way. 
+
+<li><a class="icon fa-file-pdf-o" href="https://papers.nips.cc/paper/6539-hierarchical-object-representation-for-open-ended-object-category-learning-and-recognition" target="_blank"> NIPS2016</a> --- 
+<a class="icon fa-file-pdf-o" href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank"> TPAMI2018 (under review)</a>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/J0QOc_Ifde4" target="_blank"> Demo1</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/pe29DYNolBE" target="_blank"> Demo2</a>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >GOOD: A Global Orthographic Object Descriptor for 3D Object Recognition and Manipulation</h4>
+<a href="#" class="image"><img src="images/GOOD.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+The Global Orthographic Object Descriptor (<b>GOOD</b>) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: (<b>1</b>) Providing a good trade-off among: <b>descriptiveness</b>, <b>robustness</b>, <b>computation time</b>, <b>memory usage</b>; (<b>2</b>) Allowing <b>concurrent object recognition and pose estimation for manipulation</b>.  The performance of the proposed object descriptor is compared with the main state-of-the-art descriptors. Experimental results show that the overall classification performance obtained with GOOD is comparable to the best performances obtained with the state-of-the-art descriptors. Concerning memory and computation time, GOOD clearly outperforms the other descriptors.  The current implementation of GOOD descriptor supports several functionalities for 3D object recognition and object manipulation.
+
+<li><a class="icon fa-file-pdf-o" href="http://www.sciencedirect.com/science/article/pii/S0167865516301684" target="_blank"> Pattern Recognition Letters</a> --- 
+<a class="icon fa-file-pdf-o" href="http://ieeexplore.ieee.org/abstract/document/7759612/" target="_blank"> IROS2016</a>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/iEq9TAaY9u8" target="_blank"> Demo1</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/eP0lwqW55Iw" target="_blank"> Demo2</a>
+<li><a class="icon fa-file-code-o" href="https://github.com/SeyedHamidreza/GOOD_descriptor" target="_blank"> Source Code (GitHub)</a> ---
+<a class="icon fa-file-code-o" href="http://pointclouds.org/" target="_blank"> Part of PCL 1.9</a> 
+</li>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Towards Lifelong Assistive Robotics: A Tight Coupling between Object Perception and Manipulation</h4>
+<a href="#" class="image"><img src="images/grasp.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+In this work, we propose a cognitive architecture designed to create a tight coupling between perception and manipulation for assistive robots. This is necessary for assistive robots, not only to perform manipulation tasks in a reasonable amount of time and in an appropriate manner, but also to robustly adapt to new environments by handling new objects. In particular, this cognitive architecture provides perception capabilities that will allow robots to, incrementally learn object categories from the set of accumulated experiences and reason about how to perform complex tasks. 
+
+<li><a class="icon fa-file-pdf-o" href="https://www.sciencedirect.com/science/article/pii/S0925231218302327" target="_blank"> Neurocomputing Journal</a> --- 
+<a class="icon fa-file-pdf-o" href="http://www.ais.uni-bonn.de/robocup.de/2016/papers/RoboCup_Symposium_2016_Kasaei.pdf" target="_blank"> RoboCup2016</a> --- 
+<a class="icon fa-file-pdf-o" href="http://ieeexplore.ieee.org/document/7353715/" target="_blank"> IROS2015</a>
+<li><a class="icon style3 major fa-camera-retro" href="https://www.youtube.com/watch?v=cTK10iNyYXg" target="_blank"> Demo1</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/GtXBiejdccw" target="_blank"> Demo2</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/MwX3J6aoAX0" target="_blank"> Demo3</a>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Interactive Open-Ended Learning for 3D Object Recognition: An Approach and Experiments</h4>
+<a href="#" class="image"><img src="images/HRI.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+This work presents an efficient approach capable of learning and recognizing object categories in an interactive and open-ended manner. In particular, we mainly focus on two state-of-the-art questions: (1) How to automatically detect, conceptualize and recognize objects in 3D scenes in an open-ended manner? (2) How to acquire and use high-level knowledge obtained from the interaction with human users, namely when they provide category labels, in order to improve the system performance?
+
+
+<li><a class="icon fa-file-pdf-o" href="https://link.springer.com/article/10.1007/s10846-015-0189-z" target="_blank"> Journal of Intelligent and Robotic Systems</a>-<br/>-- 
+<a class="icon fa-file-pdf-o" href="https://www.sciencedirect.com/science/article/pii/S0921889015002146" class="external text" target="_blank"> RAS Journal</a> --- 
+<a class="icon fa-file-pdf-o" href="http://ieeexplore.ieee.org/document/6942861/?denied" target="_blank"> IROS2014</a>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/XvnF2JMfhvc" target="_blank"> Demo1</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/D00j_rVmtp4" target="_blank"> Demo2</a> 
+<li><a class="icon fa-file-code-o" href="https://goo.gl/64IXx9" target="_blank"> Restaurant Object Dataset v.1.0 (RGB-D)</a> 
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Learning to Grasp Familiar Objects using Object View Recognition and Template Matching</h4>
+<a href="#" class="image"><img src="images/graspSim.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0); ">
+In this work, interactive object view learning and recognition capabilities are integrated in the process of learning and recognizing grasps. The object view recognition module uses an interactive incremental learning approach to recognize object view labels. The grasp pose learning approach uses local and global visual features of a demonstrated grasp to learn a grasp template associated with the recognized object view. A grasp distance measure based on Mahalanobis distance is used in a grasp template matching approach to recognize an appropriate grasp pose. 
+
+<li><a class="icon fa-file-pdf-o" href="http://ieeexplore.ieee.org/document/7759448/" target="_blank"> IROS2016</a></li>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/HoEjJJOynmY" target="_blank"> Demo1</a> ---
+<a class="icon style3 major fa-camera-retro" href="https://youtu.be/MrqmnBbXc70" target="_blank"> Demo2</a> </li>
+</p>
+</div>
+</article>
+
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Face Recognition Using Single Normal Reference Image and Statistical Features (Master Thesis)</h4>
+<a href="#" class="image"><img src="images/face.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0); ">
+Many types of research have been conducted to improve the accuracy of face recognition techniques. The majority of reported techniques make use of databases where a number of images are available for each person. Since collecting face samples is a challenging task, there are some face recognition methods that work based on a single sample per person (SSPP). I studied face recognition using single normal reference image and statistical features. We encoded the face information by making use of a Modular Principal Component Analysis. The nearest neighbour classifier was finally used to assess the dissimilarity between the target face and trained faces. 
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" > Humanoid Robots (RoboCup-HL)</h4>
+<a href="#" class="image"><img src="images/humanoids.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0); ">
+After obtaining extensive knowledge about real-time intelligent robotic systems in Middle-Size League, I tried to make humanoid robots and formed two new robotic teams namely Persia and BehRobot for participating in RoboCup humanoid leagues. We worked on three different types of humanoid robots including kid-size (height = 59cm, weight = 4kg), teen-size (height = 93cm, weight = 7Kg) and adult-size (height = 155cm, weight = 11:5Kg) robots. We were one of the successful teams in the humanoid leagues and achieved several ranks in national and international competitions.
+<li><a class="icon fa-file-pdf-o" href="https://ieeexplore.ieee.org/document/7781957/" target="_blank"> ICARSC2016</a></li>
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/ko29dpE-A1c?t=66" target="_blank"> Demo1</a> </li>
+</p>
+</div>
+</article>
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >Middle Size Soccer Robots (RoboCup-MSL)</h4>
+<a href="#" class="image"><img src="images/middle.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0); ">
+During the second year of my undergraduate program, I got familiar with RoboCup competitions. I formed a team of Middle Size Soccer Robots (RoboCup-MSL) namely
+ADRO in 2006. We provided five player robots and one goalkeeper robot with similar structure but equipped with some additional accessories and sensors. Through this teamwork, I took an active role in the development of the robots’ software. Furthermore, I worked on the mechanical design of the robot via Autodesk Inventor. We achieved several ranks in national and international RoboCup competitions.
+<li><a class="icon style3 major fa-camera-retro" href="https://youtu.be/ko29dpE-A1c" target="_blank"> Demo1</a> </li>
+</p>
+</div>
+</article>
+
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+
+<article>
+<h4 style="text-align: justify; color: rgb(0, 0, 250);" >A Novel Morphological Method for Detection and Recognition of Vehicle License Plates</h4>
+<a href="#" class="image"><img src="images/lpr.jpg" alt="" /></a>
+<div class="inner">
+
+<p style="text-align: justify; color: rgb(0, 0, 0); ">
+ License plate detection and recognition is an image-processing technique used to identify a vehicle by its license plate. This notable technology has got multiple
+applications in various traffic and security cases. This study presented a novel method of identifying and recognizing license plates based on the morphology and template matching. The algorithm started with preprocessing and signal conditioning. Next license plate is localized using morphological operators. Then a template matching scheme will be used to recognize the digits and characters within the plate. 
+<li><a class="icon fa-file-pdf-o" href="http://thescipub.com/abstract/10.3844/ajassp.2009.2066.2070" target="_blank"> American Journal of Applied Sciences
+</a> -<br/>-- <a class="icon fa-file-pdf-o" href="https://ieeexplore.ieee.org/document/6061241/" target="_blank"> EISIC2011</a>
+<li><a class="icon fa-file-code-o" href="https://github.com/SeyedHamidreza/car_plate_dataset" target="_blank"> Iranian Car Plate Dataset v.1.0 (RGB)</a>
+</p>
+</div>
+</article>
+
+</section>
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+<!-- ***************************************************** -->
+
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^ Section 4 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^ Section 4 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^ Section 4 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+<section id="four">
+<div class="container">
+<h3 style="color: rgb(0, 0, 0);">Open Positions & Students</h3>
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+If you are interested in doing your Bachelor/Master/PhD thesis in one of the above areas, or working on a project with me, please send me an e-mail including:
+</p>
+
+<ul class="feature-icons" style="text-align: justify;">
+	<li class="fa-book" style="color: rgb(0, 0, 255);">Short CV</li>
+	<li class="fa-cubes" style="color: rgb(0, 0, 255);">Short motivation letter</li>
+</ul>
+
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+The motivation letter should state (½ - 1 page):
+<ul class="feature-icons">
+	<li class="fa-diamond" style="color: rgb(0, 0, 255);">Topics that you are interested in</li>
+	<li class="fa-signal" style="color: rgb(0, 0, 255);">Type of project (theoretical/applied)</li>
+	<li class="fa-calendar" style="color: rgb(0, 0, 255);">Intended starting date</li>
+	<li class="fa-folder-open-o" style="color: rgb(0, 0, 255);">your relevant experiences</li>
+	<li class="fa-code" style="color: rgb(0, 0, 255);">Programming languages and related</li>
+</ul>
+</p>
+
+</section>
+
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^ Section 5 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^ Section 5 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^ Section 5 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+<section id="five">
+<div class="container">
+<h3 style="color: rgb(0, 0, 0);">Teaching</h3>
+
+<p style="text-align: justify; color: rgb(0, 0, 0);">
+Academic year 2018/2019: <br/>
+<a class="icon fa-book" style="color: rgb(0, 0, 255);" href="https://www.rug.nl/ocasys/frw/vak/show?code=KIB.AS03" target="_blank"> KIB.AS03: Autonomous Sytems (co-lecturer)</a>
+</p>
+</div>
+</section>
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
